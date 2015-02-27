@@ -1,0 +1,7 @@
+# Ignore .vagrant generated folder (used for VM)
+.vagrant
+.vagrant/
+
+projects/
+!projects/config
+projects/config/vhosts.conf
